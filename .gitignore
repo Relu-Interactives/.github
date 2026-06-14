@@ -1,4 +1,4 @@
-# Local Python env used to generate banner assets
+# Local Python envs (used to optimize banner assets)
 .imgvenv/
 .venv/
 __pycache__/
