@@ -80,7 +80,7 @@ interaction instead of memorization.
 ## <img src="https://api.iconify.design/lucide/star.svg?color=%23FF7A26&height=24" />&nbsp; Featured product — Relu Spatial
 
 [**Relu Spatial**](https://reluspatial.com) brings augmented and virtual reality straight to the web
-browser — **VR & AR for everyone**, with no dedicated app and no headset required. It removes the
+browser — **immersive tech for everyone**, with no dedicated app and no headset required. It removes the
 barriers to immersive tech so anyone can create, share, and explore spatial experiences with nothing
 more than a link.
 
